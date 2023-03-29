@@ -1,0 +1,148 @@
+.h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.p1{
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    font-size:larger;
+    
+}
+.h2{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-size: xx-large;
+}
+.p2{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+.c2{
+    text-align: center;
+    background-color: black;
+}
+
+.h3{
+    text-align: center;
+    background-color: yellow;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.c3{
+    background-color: yellow;
+}
+.p3{
+    background-color: yellow;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+.h4{
+    text-align: center;
+    background-color: rgb(27, 28, 49);
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.c4{
+    background-color: rgb(27, 28, 49);
+}
+.p4{
+    background-color:rgb(27, 28, 49);
+    color: whitesmoke;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+.h5{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+.c5{
+    background-color: rgb(0, 0, 0);
+}
+.p5{
+    background-color:rgb(0, 0, 0);
+    color: whitesmoke;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+.h6{
+    text-align: center;
+    background-color:rgb(255, 188, 18);
+   
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+  
+}
+.c6{
+    background-color: rgb(255, 188, 18);
+}
+.p6{
+    background-color:rgb(255, 188, 18);
+    
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+
+.h7{
+    text-align: center;
+    background-color:rgb(23, 28, 80);
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+  
+}
+.c7{
+    background-color:rgb(23, 28, 80);
+}
+.p7{
+    background-color:rgb(23, 28, 80);
+    color: whitesmoke;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-size:larger;
+}
+
+.carousel-control-prev,.carousel-control-next{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(200, 212, 218);;
+    border-radius: 50%;
+   
+}
+.carousel-control-prev{
+    left: 5%;
+    top: 50%;
+}
+.carousel-control-next{
+    right: 5%;
+    top: 50%;
+}
