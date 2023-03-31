@@ -23,12 +23,12 @@ body{
     background-color: rgb(200, 212, 218);
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px rgba(0,0,0,0.1)
+    box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1)
 }
 
 .container .leftside{
     position: relative;
-    background-color: rgba(54, 137, 185, 0.518);
+    background-color: rgba(50, 127, 172, 0.518);
     padding: 40px;
 }
 
@@ -75,7 +75,7 @@ body{
 }
 
 .a1,.a2{
-    color: aqua;
+    color: rgb(71, 28, 172);
 }
 
 
@@ -107,7 +107,7 @@ body{
     display: inline-block;
     width: 20px;
     font-size: 18px;
-    color: aqua;
+    color: rgb(71, 28, 172);
 }
 
 .contactInfo ul li span{
@@ -120,7 +120,7 @@ body{
     margin-bottom: 15px;
 }
 .contactInfo.education h5{
-    color: aqua;
+    color: rgb(71, 28, 172);
     font-weight: 500;
 }
 .contactInfo.education h4:nth-child(2){
@@ -148,7 +148,7 @@ position: absolute;
 top: 0;
 left: 0;
 height: 100%;
-background: aqua;
+background:rgb(71, 28, 172);
 }
 
 
@@ -171,7 +171,7 @@ p{
 }
 
 .title2{
-    color:rgba(54, 137, 185, 0.598) ;
+    color:rgba(34, 130, 190, 0.598) ;
      text-transform: uppercase;
      letter-spacing: 1px;
      margin-bottom: 10px;
@@ -211,7 +211,7 @@ p{
     top: 0;
     left: 0;
     height: 100%;
-    background:aqua ;
+    background:rgb(71, 28, 172);
 }
 
 .interest ul{
@@ -227,7 +227,7 @@ p{
 }
 
 .interest ul li .fa{
-    color:aqua ;
+    color:rgb(71, 28, 172);
     font-size: large;
     width: 20px;
 }
@@ -279,7 +279,7 @@ p{
 }
 
 .title4{
-     color: aqua;
+     color:rgb(71, 28, 172);
      text-transform: uppercase;
      letter-spacing: 1px;
      margin-bottom: 10px;
