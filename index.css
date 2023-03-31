@@ -75,7 +75,7 @@ body{
 }
 
 .a1,.a2{
-    color: rgb(71, 28, 172);
+    color: rgb(10, 80, 255);
 }
 
 
@@ -107,7 +107,7 @@ body{
     display: inline-block;
     width: 20px;
     font-size: 18px;
-    color: rgb(71, 28, 172);
+    color: rgb(10, 80, 255);
 }
 
 .contactInfo ul li span{
@@ -120,7 +120,7 @@ body{
     margin-bottom: 15px;
 }
 .contactInfo.education h5{
-    color: rgb(71, 28, 172);
+    color: rgb(10, 80, 255);
     font-weight: 500;
 }
 .contactInfo.education h4:nth-child(2){
@@ -148,7 +148,7 @@ position: absolute;
 top: 0;
 left: 0;
 height: 100%;
-background:rgb(71, 28, 172);
+background:rgb(10, 80, 255);
 }
 
 
@@ -211,7 +211,7 @@ p{
     top: 0;
     left: 0;
     height: 100%;
-    background:rgb(71, 28, 172);
+    background:rgb(10, 80, 255);
 }
 
 .interest ul{
@@ -227,7 +227,7 @@ p{
 }
 
 .interest ul li .fa{
-    color:rgb(71, 28, 172);
+    color:rgb(10, 80, 255);
     font-size: large;
     width: 20px;
 }
@@ -279,7 +279,7 @@ p{
 }
 
 .title4{
-     color:rgb(71, 28, 172);
+     color:rgb(10, 80, 255);
      text-transform: uppercase;
      letter-spacing: 1px;
      margin-bottom: 10px;
